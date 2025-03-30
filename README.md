@@ -48,8 +48,6 @@ index.html
 
 ## Preview
 
-## Preview
-
 - Video preview on LinkedIn: https://www.linkedin.com/posts/jisun-ju_frontenddevelopment-webanimation-gsap-activity-7310891292316573696-GSKk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFKc9-MBvzJM5pxgl_i4hKwXCXSkQ-XM2Lg
 - Live version (view in browser): https://sunnyju318.github.io/gsap_random_keyframes/
 
